@@ -1,3 +1,6 @@
+**NOTE:** This library has been abandoned in favour of [time-literals](https://github.com/henryw374/time-literals). After much deliberation, it has been decided that 'jsr310'
+is too obscure to have as a namespace.
+
 # jsr310-tagged-literals
 
 A Clojure(Script) library to help reading and printing objects from jsr-310,
