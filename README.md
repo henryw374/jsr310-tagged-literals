@@ -1,5 +1,5 @@
 **NOTE:** This library has been abandoned in favour of [time-literals](https://github.com/henryw374/time-literals). After much deliberation, it has been decided that 'jsr310'
-is too obscure to have as a namespace.
+is too obscure to have as the tag namespace.
 
 # jsr310-tagged-literals
 
